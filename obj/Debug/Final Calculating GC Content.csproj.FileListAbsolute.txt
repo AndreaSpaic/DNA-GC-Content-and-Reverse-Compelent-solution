@@ -1,0 +1,7 @@
+F:\Bioinformatika\C#\Calculating_GC_Content\Final Calculating GC Content\bin\Debug\Final Calculating GC Content.exe.config
+F:\Bioinformatika\C#\Calculating_GC_Content\Final Calculating GC Content\bin\Debug\Final Calculating GC Content.exe
+F:\Bioinformatika\C#\Calculating_GC_Content\Final Calculating GC Content\bin\Debug\Final Calculating GC Content.pdb
+F:\Bioinformatika\C#\Calculating_GC_Content\Final Calculating GC Content\obj\Debug\Final Calculating GC Content.csprojAssemblyReference.cache
+F:\Bioinformatika\C#\Calculating_GC_Content\Final Calculating GC Content\obj\Debug\Final Calculating GC Content.csproj.CoreCompileInputs.cache
+F:\Bioinformatika\C#\Calculating_GC_Content\Final Calculating GC Content\obj\Debug\Final Calculating GC Content.exe
+F:\Bioinformatika\C#\Calculating_GC_Content\Final Calculating GC Content\obj\Debug\Final Calculating GC Content.pdb
