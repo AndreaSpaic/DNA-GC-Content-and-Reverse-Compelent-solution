@@ -55,9 +55,6 @@ namespace Calculating_GC_Content_And_Reverse_Complement
             string tempDNA = dna.Replace('A', 'X').Replace('C', 'Y');
             string tempDNA1 = tempDNA.Replace('T', 'A').Replace('G', 'C');
             string complementDNA = tempDNA1.Replace('X', 'T').Replace('Y', 'G');
-            // Console.WriteLine("Complementary DNA sequence is:");
-            //Console.WriteLine(complementDNA);
-            //Console.WriteLine(dna);
 
             /*Reverse Complement DNA*/
             string reverseComplement = new string(complementDNA.Reverse().ToArray());
